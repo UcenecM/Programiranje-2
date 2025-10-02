@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\bin\Debug\net8.0\Rekurzija3.exe
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\bin\Debug\net8.0\Rekurzija3.deps.json
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\bin\Debug\net8.0\Rekurzija3.runtimeconfig.json
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\bin\Debug\net8.0\Rekurzija3.dll
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\bin\Debug\net8.0\Rekurzija3.pdb
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.AssemblyInfo.cs
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.dll
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\refint\Rekurzija3.dll
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.pdb
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\Rekurzija3.genruntimeconfig.cache
+C:\Users\student\Desktop\Rekurzija3\Rekurzija3\obj\Debug\net8.0\ref\Rekurzija3.dll

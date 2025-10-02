@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vajedate skipaju/1.0.0": {
+        "runtime": {
+          "Vajedate skipaju.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vajedate skipaju/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

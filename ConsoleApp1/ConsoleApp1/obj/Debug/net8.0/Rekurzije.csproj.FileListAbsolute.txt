@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Rekurzije.exe
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Rekurzije.deps.json
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Rekurzije.runtimeconfig.json
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Rekurzije.dll
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Rekurzije.pdb
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.AssemblyInfo.cs
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.dll
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Rekurzije.dll
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.pdb
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Rekurzije.genruntimeconfig.cache
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Rekurzije.dll
