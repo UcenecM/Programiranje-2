@@ -1,0 +1,16 @@
+C:\PROGRAM2\FRUKTAL\FRUKTAL\bin\Debug\net8.0-windows\FRUKTAL.exe
+C:\PROGRAM2\FRUKTAL\FRUKTAL\bin\Debug\net8.0-windows\FRUKTAL.deps.json
+C:\PROGRAM2\FRUKTAL\FRUKTAL\bin\Debug\net8.0-windows\FRUKTAL.runtimeconfig.json
+C:\PROGRAM2\FRUKTAL\FRUKTAL\bin\Debug\net8.0-windows\FRUKTAL.dll
+C:\PROGRAM2\FRUKTAL\FRUKTAL\bin\Debug\net8.0-windows\FRUKTAL.pdb
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.Form1.resources
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.csproj.GenerateResource.cache
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.AssemblyInfoInputs.cache
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.AssemblyInfo.cs
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.dll
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\refint\FRUKTAL.dll
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.pdb
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\FRUKTAL.genruntimeconfig.cache
+C:\PROGRAM2\FRUKTAL\FRUKTAL\obj\Debug\net8.0-windows\ref\FRUKTAL.dll
