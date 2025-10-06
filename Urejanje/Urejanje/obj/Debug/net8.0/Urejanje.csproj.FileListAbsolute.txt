@@ -1,0 +1,14 @@
+C:\PROGRAM2\Urejanje\Urejanje\bin\Debug\net8.0\Urejanje.exe
+C:\PROGRAM2\Urejanje\Urejanje\bin\Debug\net8.0\Urejanje.deps.json
+C:\PROGRAM2\Urejanje\Urejanje\bin\Debug\net8.0\Urejanje.runtimeconfig.json
+C:\PROGRAM2\Urejanje\Urejanje\bin\Debug\net8.0\Urejanje.dll
+C:\PROGRAM2\Urejanje\Urejanje\bin\Debug\net8.0\Urejanje.pdb
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.AssemblyInfoInputs.cache
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.AssemblyInfo.cs
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.dll
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\refint\Urejanje.dll
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.pdb
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\Urejanje.genruntimeconfig.cache
+C:\PROGRAM2\Urejanje\Urejanje\obj\Debug\net8.0\ref\Urejanje.dll
