@@ -1,0 +1,14 @@
+C:\PROGRAM2\KliciMe\KliciMe\bin\Debug\net8.0\KliciMe.exe
+C:\PROGRAM2\KliciMe\KliciMe\bin\Debug\net8.0\KliciMe.deps.json
+C:\PROGRAM2\KliciMe\KliciMe\bin\Debug\net8.0\KliciMe.runtimeconfig.json
+C:\PROGRAM2\KliciMe\KliciMe\bin\Debug\net8.0\KliciMe.dll
+C:\PROGRAM2\KliciMe\KliciMe\bin\Debug\net8.0\KliciMe.pdb
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.AssemblyInfoInputs.cache
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.AssemblyInfo.cs
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.dll
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\refint\KliciMe.dll
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.pdb
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\KliciMe.genruntimeconfig.cache
+C:\PROGRAM2\KliciMe\KliciMe\obj\Debug\net8.0\ref\KliciMe.dll
