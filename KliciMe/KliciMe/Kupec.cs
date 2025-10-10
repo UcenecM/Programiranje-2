@@ -21,17 +21,21 @@ namespace KliciMe
         {
             stanje -= plačilo;
         }
-        public void BeležiKlic(int minute, int tipKlica)
+        public void BeležiKlic(int minute, TipKlica tipKlica)
         {
             //1-stacionarno=minute*0.2,2- mobilno=minute*0.03
             switch(tipKlica){
-                case 1:
+                case TipKlica.Stacionarno:
                     stanje += minute * 0.2m;
                     break;
-                case 2:
+                case TipKlica.Mobilno:
                     stanje += minute * 0.3m;
                     break;
             }
+        }
+        public override string ToString()
+        {
+            return ime + " dolguje " + stanje + " EUR";
         }
     }
 }
