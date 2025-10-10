@@ -1,0 +1,14 @@
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.AssemblyInfoInputs.cache
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.AssemblyInfo.cs
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\XMEN\XMEN\bin\Debug\net8.0\XMEN.exe
+C:\PROGRAM2\XMEN\XMEN\bin\Debug\net8.0\XMEN.deps.json
+C:\PROGRAM2\XMEN\XMEN\bin\Debug\net8.0\XMEN.runtimeconfig.json
+C:\PROGRAM2\XMEN\XMEN\bin\Debug\net8.0\XMEN.dll
+C:\PROGRAM2\XMEN\XMEN\bin\Debug\net8.0\XMEN.pdb
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.dll
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\refint\XMEN.dll
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.pdb
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\XMEN.genruntimeconfig.cache
+C:\PROGRAM2\XMEN\XMEN\obj\Debug\net8.0\ref\XMEN.dll
