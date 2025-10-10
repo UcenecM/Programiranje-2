@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace KliciMe
 {
-    internal class TipKlica
+    enum TipKlica
     {
+        Stacionarno =1, Mobilno=2
     }
 }
