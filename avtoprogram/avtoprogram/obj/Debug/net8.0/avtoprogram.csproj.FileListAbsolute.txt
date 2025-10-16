@@ -1,0 +1,14 @@
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.AssemblyInfoInputs.cache
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.AssemblyInfo.cs
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\avtoprogram\avtoprogram\bin\Debug\net8.0\avtoprogram.exe
+C:\PROGRAM2\avtoprogram\avtoprogram\bin\Debug\net8.0\avtoprogram.deps.json
+C:\PROGRAM2\avtoprogram\avtoprogram\bin\Debug\net8.0\avtoprogram.runtimeconfig.json
+C:\PROGRAM2\avtoprogram\avtoprogram\bin\Debug\net8.0\avtoprogram.dll
+C:\PROGRAM2\avtoprogram\avtoprogram\bin\Debug\net8.0\avtoprogram.pdb
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.dll
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\refint\avtoprogram.dll
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.pdb
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\avtoprogram.genruntimeconfig.cache
+C:\PROGRAM2\avtoprogram\avtoprogram\obj\Debug\net8.0\ref\avtoprogram.dll
