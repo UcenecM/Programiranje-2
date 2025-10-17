@@ -1,0 +1,17 @@
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\bin\Debug\net8.0-windows\RačunjesKOMPFORM.exe
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\bin\Debug\net8.0-windows\RačunjesKOMPFORM.deps.json
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\bin\Debug\net8.0-windows\RačunjesKOMPFORM.runtimeconfig.json
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\bin\Debug\net8.0-windows\RačunjesKOMPFORM.dll
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\bin\Debug\net8.0-windows\RačunjesKOMPFORM.pdb
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.Form1.resources
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.Properties.Resources.resources
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.csproj.GenerateResource.cache
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.AssemblyInfoInputs.cache
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.AssemblyInfo.cs
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.dll
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\refint\RačunjesKOMPFORM.dll
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.pdb
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\RačunjesKOMPFORM.genruntimeconfig.cache
+C:\PROGRAM2\RačunjesKOMPFORM\RačunjesKOMPFORM\obj\Debug\net8.0-windows\ref\RačunjesKOMPFORM.dll
