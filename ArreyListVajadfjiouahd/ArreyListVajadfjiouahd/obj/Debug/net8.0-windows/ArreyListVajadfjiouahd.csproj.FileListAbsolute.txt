@@ -1,0 +1,16 @@
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\bin\Debug\net8.0-windows\ArreyListVajadfjiouahd.exe
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\bin\Debug\net8.0-windows\ArreyListVajadfjiouahd.deps.json
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\bin\Debug\net8.0-windows\ArreyListVajadfjiouahd.runtimeconfig.json
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\bin\Debug\net8.0-windows\ArreyListVajadfjiouahd.dll
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\bin\Debug\net8.0-windows\ArreyListVajadfjiouahd.pdb
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.Arrey.resources
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.csproj.GenerateResource.cache
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.AssemblyInfoInputs.cache
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.AssemblyInfo.cs
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.dll
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\refint\ArreyListVajadfjiouahd.dll
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.pdb
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ArreyListVajadfjiouahd.genruntimeconfig.cache
+C:\PROGRAM2\ArreyListVajadfjiouahd\ArreyListVajadfjiouahd\obj\Debug\net8.0-windows\ref\ArreyListVajadfjiouahd.dll
