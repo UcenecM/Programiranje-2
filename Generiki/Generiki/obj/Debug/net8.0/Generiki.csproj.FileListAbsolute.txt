@@ -1,0 +1,4 @@
+C:\PROGRAM2\Generiki\Generiki\obj\Debug\net8.0\Generiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\Generiki\Generiki\obj\Debug\net8.0\Generiki.AssemblyInfoInputs.cache
+C:\PROGRAM2\Generiki\Generiki\obj\Debug\net8.0\Generiki.AssemblyInfo.cs
+C:\PROGRAM2\Generiki\Generiki\obj\Debug\net8.0\Generiki.csproj.CoreCompileInputs.cache
