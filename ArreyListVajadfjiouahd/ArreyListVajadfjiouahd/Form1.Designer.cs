@@ -88,6 +88,7 @@
             btnPrvi.TabIndex = 4;
             btnPrvi.Text = "Prvi";
             btnPrvi.UseVisualStyleBackColor = true;
+            btnPrvi.Click += btnPrvi_Click;
             // 
             // btnZadnji
             // 
@@ -97,6 +98,7 @@
             btnZadnji.TabIndex = 5;
             btnZadnji.Text = "Zadnji";
             btnZadnji.UseVisualStyleBackColor = true;
+            btnZadnji.Click += btnZadnji_Click;
             // 
             // btnPrazn
             // 
@@ -106,6 +108,7 @@
             btnPrazn.TabIndex = 6;
             btnPrazn.Text = "Je prazen?";
             btnPrazn.UseVisualStyleBackColor = true;
+            btnPrazn.Click += btnPrazn_Click;
             // 
             // btnVsebuje
             // 
@@ -115,6 +118,7 @@
             btnVsebuje.TabIndex = 7;
             btnVsebuje.Text = "Vsebuje";
             btnVsebuje.UseVisualStyleBackColor = true;
+            btnVsebuje.Click += btnVsebuje_Click;
             // 
             // btnPozicija
             // 
@@ -124,6 +128,7 @@
             btnPozicija.TabIndex = 8;
             btnPozicija.Text = "Pozicija";
             btnPozicija.UseVisualStyleBackColor = true;
+            btnPozicija.Click += btnPozicija_Click;
             // 
             // btnTrim
             // 
@@ -133,6 +138,7 @@
             btnTrim.TabIndex = 9;
             btnTrim.Text = "Trim";
             btnTrim.UseVisualStyleBackColor = true;
+            btnTrim.Click += btnTrim_Click;
             // 
             // btnStatistika
             // 
@@ -152,6 +158,7 @@
             btnIzpisi.TabIndex = 11;
             btnIzpisi.Text = "Izpiši";
             btnIzpisi.UseVisualStyleBackColor = true;
+            btnIzpisi.Click += btnIzpisi_Click;
             // 
             // txtKonzola
             // 

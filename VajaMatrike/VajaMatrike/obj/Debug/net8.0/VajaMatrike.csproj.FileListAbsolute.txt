@@ -1,0 +1,14 @@
+C:\PROGRAM2\VajaMatrike\VajaMatrike\bin\Debug\net8.0\VajaMatrike.exe
+C:\PROGRAM2\VajaMatrike\VajaMatrike\bin\Debug\net8.0\VajaMatrike.deps.json
+C:\PROGRAM2\VajaMatrike\VajaMatrike\bin\Debug\net8.0\VajaMatrike.runtimeconfig.json
+C:\PROGRAM2\VajaMatrike\VajaMatrike\bin\Debug\net8.0\VajaMatrike.dll
+C:\PROGRAM2\VajaMatrike\VajaMatrike\bin\Debug\net8.0\VajaMatrike.pdb
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.AssemblyInfoInputs.cache
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.AssemblyInfo.cs
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.dll
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\refint\VajaMatrike.dll
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.pdb
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\VajaMatrike.genruntimeconfig.cache
+C:\PROGRAM2\VajaMatrike\VajaMatrike\obj\Debug\net8.0\ref\VajaMatrike.dll
