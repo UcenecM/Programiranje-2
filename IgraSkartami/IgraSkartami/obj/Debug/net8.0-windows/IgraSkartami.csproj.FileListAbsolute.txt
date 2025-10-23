@@ -1,0 +1,16 @@
+C:\PROGRAM2\IgraSkartami\IgraSkartami\bin\Debug\net8.0-windows\IgraSkartami.exe
+C:\PROGRAM2\IgraSkartami\IgraSkartami\bin\Debug\net8.0-windows\IgraSkartami.deps.json
+C:\PROGRAM2\IgraSkartami\IgraSkartami\bin\Debug\net8.0-windows\IgraSkartami.runtimeconfig.json
+C:\PROGRAM2\IgraSkartami\IgraSkartami\bin\Debug\net8.0-windows\IgraSkartami.dll
+C:\PROGRAM2\IgraSkartami\IgraSkartami\bin\Debug\net8.0-windows\IgraSkartami.pdb
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.Form1.resources
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.csproj.GenerateResource.cache
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.AssemblyInfoInputs.cache
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.AssemblyInfo.cs
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.dll
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\refint\IgraSkartami.dll
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.pdb
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\IgraSkartami.genruntimeconfig.cache
+C:\PROGRAM2\IgraSkartami\IgraSkartami\obj\Debug\net8.0-windows\ref\IgraSkartami.dll

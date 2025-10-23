@@ -1,0 +1,16 @@
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\bin\Debug\net8.0-windows\Sklad-Stack-Vaja.exe
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\bin\Debug\net8.0-windows\Sklad-Stack-Vaja.deps.json
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\bin\Debug\net8.0-windows\Sklad-Stack-Vaja.runtimeconfig.json
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\bin\Debug\net8.0-windows\Sklad-Stack-Vaja.dll
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\bin\Debug\net8.0-windows\Sklad-Stack-Vaja.pdb
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad_Stack_Vaja.Form1.resources
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.csproj.GenerateResource.cache
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.AssemblyInfoInputs.cache
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.AssemblyInfo.cs
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.dll
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\refint\Sklad-Stack-Vaja.dll
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.pdb
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\Sklad-Stack-Vaja.genruntimeconfig.cache
+C:\PROGRAM2\Sklad-Stack-Vaja\Sklad-Stack-Vaja\obj\Debug\net8.0-windows\ref\Sklad-Stack-Vaja.dll
