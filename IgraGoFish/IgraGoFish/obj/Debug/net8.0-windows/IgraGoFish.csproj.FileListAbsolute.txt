@@ -1,0 +1,16 @@
+C:\PROGRAM2\IgraGoFish\IgraGoFish\bin\Debug\net8.0-windows\IgraGoFish.exe
+C:\PROGRAM2\IgraGoFish\IgraGoFish\bin\Debug\net8.0-windows\IgraGoFish.deps.json
+C:\PROGRAM2\IgraGoFish\IgraGoFish\bin\Debug\net8.0-windows\IgraGoFish.runtimeconfig.json
+C:\PROGRAM2\IgraGoFish\IgraGoFish\bin\Debug\net8.0-windows\IgraGoFish.dll
+C:\PROGRAM2\IgraGoFish\IgraGoFish\bin\Debug\net8.0-windows\IgraGoFish.pdb
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.Form1.resources
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.csproj.GenerateResource.cache
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.AssemblyInfoInputs.cache
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.AssemblyInfo.cs
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.dll
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\refint\IgraGoFish.dll
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.pdb
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\IgraGoFish.genruntimeconfig.cache
+C:\PROGRAM2\IgraGoFish\IgraGoFish\obj\Debug\net8.0-windows\ref\IgraGoFish.dll
