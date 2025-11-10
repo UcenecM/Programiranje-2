@@ -1,0 +1,16 @@
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\bin\Debug\net8.0-windows\VajaIzjeme.exe
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\bin\Debug\net8.0-windows\VajaIzjeme.deps.json
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\bin\Debug\net8.0-windows\VajaIzjeme.runtimeconfig.json
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\bin\Debug\net8.0-windows\VajaIzjeme.dll
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\bin\Debug\net8.0-windows\VajaIzjeme.pdb
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.Form1.resources
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.csproj.GenerateResource.cache
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.AssemblyInfoInputs.cache
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.AssemblyInfo.cs
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.csproj.CoreCompileInputs.cache
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.dll
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\refint\VajaIzjeme.dll
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.pdb
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\VajaIzjeme.genruntimeconfig.cache
+C:\PROGRAM2\VajaIzjeme\VajaIzjeme\obj\Debug\net8.0-windows\ref\VajaIzjeme.dll
